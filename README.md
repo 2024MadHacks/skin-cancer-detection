@@ -1,0 +1,1 @@
+Run this model on Hugging Face<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face emoji" style="height: 25px; width:25px;"/>: (https://huggingface.co/spaces/2024madhacks/mole_class).
